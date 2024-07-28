@@ -24,3 +24,6 @@ void selection_sort(int arr[], int n)
 // i loop should cut off halfway
 // j loop should use fewer conditionals
 // gl.
+
+// bidirectional selection sort modification
+// probably around 25% faster if optimized
